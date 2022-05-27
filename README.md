@@ -5,7 +5,7 @@ GENERAL INFORMATION
 1. Title of Dataset: 
 
 2. Author Information
-	A. Principal Investigator Contact Information
+	A. Principal Investigator Contact Information.
 		Name: 
 		Institution: 
 		Address: 
